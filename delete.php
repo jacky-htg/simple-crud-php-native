@@ -6,7 +6,6 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 }
 
 if (!isset($_POST['id']) || empty($_POST['id'])) {
-  var_dump($_POST);
   die("please suplly valid id");
 }
 
