@@ -16,3 +16,4 @@ Aplikasi CRUD sederhana menggunakan PHP Native dan Mysql.
 - Standard validasi menggunakan HTML5
 - Handling SQL injection menggunakan prepare statement
 - Handling Cross Site Request Forgery (CSRF) menggunakan deteksi method dan token
+- Handling idempotent request menggunakan token
